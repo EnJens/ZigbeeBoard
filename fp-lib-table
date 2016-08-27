@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name jyd)(type KiCad)(uri "$(KIPRJMOD)\\lib\\jyd.pretty")(options "")(descr ""))
+  (lib (name crystals_extra)(type KiCad)(uri "$(KIPRJMOD)\\lib\\crystals_extra.pretty")(options "")(descr ""))
+  (lib (name GNDVIA)(type KiCad)(uri "$(KIPRJMOD)\\lib\\GNDVIA.pretty")(options "")(descr ""))
+)
