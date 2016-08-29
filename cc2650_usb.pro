@@ -1,4 +1,4 @@
-update=24-08-2016 16:55:21
+update=29-08-2016 22:54:53
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,4 @@ LibName30=valves
 LibName31=lib/cc2650
 LibName32=lib/power_extra
 LibName33=lib/antenna
+LibName34=lib/fdn340p
